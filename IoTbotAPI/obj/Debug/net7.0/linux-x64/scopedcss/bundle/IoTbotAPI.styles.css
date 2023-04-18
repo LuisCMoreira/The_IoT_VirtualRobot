@@ -1,0 +1,49 @@
+/* _content/IoTbotAPI/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-ydjk7l2w5r] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-ydjk7l2w5r] {
+  color: #0077cc;
+}
+
+.btn-primary[b-ydjk7l2w5r] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-ydjk7l2w5r], .nav-pills .show > .nav-link[b-ydjk7l2w5r] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-ydjk7l2w5r] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-ydjk7l2w5r] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-ydjk7l2w5r] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-ydjk7l2w5r] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-ydjk7l2w5r] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

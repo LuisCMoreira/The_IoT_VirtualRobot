@@ -1,0 +1,23 @@
+version: '2'
+services:
+  vbot-webgl:
+    image: lcmoreira/virtualbot-webgl:latest
+    ports:
+      - "8080:80"
+    networks:
+      - vb-network
+  vbot-api:
+    image: lcmoreira/docker-virtualbot_api:1.0.0
+    ports:
+      - "8081:80"
+    networks:
+      - vb-network
+  vblot-nodecontrol:
+    image: lcmoreira/nodered-botcontrol:latest
+    ports:
+      - "1881:1880"
+    networks:
+      - vb-network
+networks:
+  vb-network:
+    driver: bridge
