@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Hn5kJfSGfay/kd/LLUyOLsbDkIhvmNsipyLymNR+DD4aKAld5W1P0PX57uJeGFSKviDD4J10iEdO7X+mvCqjYw==",
+  "dgSpecHash": "fRAZARkJGVKsOxwQQIENscQweuLdB3NckgSoY6/glbd15VtkhAyMreyIk3Mp86E0Tv1rOJOR0G1U8j8C2Lb3hA==",
   "success": true,
   "projectFilePath": "C:\\Users\\LuisC\\Desktop\\githubProjects\\The_IoT_VirtualRobot\\IoTbotAPI\\IoTbotAPI.csproj",
   "expectedPackageFiles": [
@@ -23,8 +23,7 @@
     "C:\\Users\\LuisC\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\LuisC\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\LuisC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "C:\\Users\\LuisC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
-    "C:\\Users\\LuisC\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\7.0.2\\microsoft.netcore.app.host.linux-x64.7.0.2.nupkg.sha512"
+    "C:\\Users\\LuisC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
   ],
   "logs": []
 }

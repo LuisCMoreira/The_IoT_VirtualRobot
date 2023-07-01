@@ -47,3 +47,7 @@ C:\Users\LuisC\Desktop\githubProjects\The_IoT_VirtualRobot\IoTbotAPI\bin\Debug\n
 C:\Users\LuisC\Desktop\githubProjects\The_IoT_VirtualRobot\IoTbotAPI\bin\Debug\net7.0\Release\Release\appsettings.json
 C:\Users\LuisC\Desktop\githubProjects\The_IoT_VirtualRobot\IoTbotAPI\bin\Debug\net7.0\Release\Release\IoTbotAPI.deps.json
 C:\Users\LuisC\Desktop\githubProjects\The_IoT_VirtualRobot\IoTbotAPI\bin\Debug\net7.0\Release\Release\IoTbotAPI.runtimeconfig.json
+C:\Users\LuisC\Desktop\githubProjects\The_IoT_VirtualRobot\IoTbotAPI\bin\Debug\net7.0\Release\Release\Release\appsettings.Development.json
+C:\Users\LuisC\Desktop\githubProjects\The_IoT_VirtualRobot\IoTbotAPI\bin\Debug\net7.0\Release\Release\Release\appsettings.json
+C:\Users\LuisC\Desktop\githubProjects\The_IoT_VirtualRobot\IoTbotAPI\bin\Debug\net7.0\Release\Release\Release\IoTbotAPI.deps.json
+C:\Users\LuisC\Desktop\githubProjects\The_IoT_VirtualRobot\IoTbotAPI\bin\Debug\net7.0\Release\Release\Release\IoTbotAPI.runtimeconfig.json
